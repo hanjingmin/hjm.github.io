@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 My QQ is 8897224809. And my e-mail:hanjingmin0805@gmail.com
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
@@ -105,14 +105,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 # 个人信息
 
- - 冷熊/男/1990 
- - 本科/北极大学计算机系 
+ - 韩靖敏/男/1995 
+ - 本科/内蒙古大学数学学院 
+ - 硕士研究生/合肥工业大学数学学院
  - 工作年限：3年
  - 微博：[@Easy](http://weibo.com/easy) （如果没有技术相关内容，也可以不放）
- - 技术博客：http://old.ftqq.com ( 使用GitHub Host的Big较高  )
+ - 技术博客：https://blog.csdn.net/qq_38287376?spm=1008.2028.3001.5343 
  - Github：http://github.com/easychen ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
 
- - 期望职位：PHP高级程序员，应用架构师
+ - 期望职位：算法工程师，开发岗
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
  - 期望城市：北京
 
