@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-My QQ is 8897224809. And my e-mail:hanjingmin0805@gmail.com
+My QQ is 897224809. And my e-mail:hanjingmin0805@gmail.com
 
 
 ### Markdown
@@ -33,20 +33,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 13
 
-# 技能清单
+# 个人总结
 
-（我一般主张将技能清单写入到工作经历里边去。不过很难完整，所以有这么一段也不错）
+- 主要研究传统图像处理方向, 例如图像去噪, 图像去模糊等
+- 熟悉低秩矩阵分解, 稀疏编码, 张量矩阵运算等知识
+- 编程语言python，熟练运用tensorflow,pytorch,keras等神经网络框架
+- 熟悉CNN（卷积神经网络）、RNN（循环神经网络）、强化学习等深度学习方法
+- 
+- 团队精神，服从组织安排，有一定抗压能力，勤奋上进好学，吃苦耐劳，踏实肯干
 
-以下均为我熟练使用的技能
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+
       
 
 # 技能清单
@@ -55,8 +52,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 以下均为我熟练使用的技能
 
-- Web开发：PHP/Hack/Node
-- Web框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
+- 计算机二级
+- 
 - 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
 - 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
 - 数据库相关：MySQL/PgSQL/PDO/SQLite
@@ -67,40 +64,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 # 工作经历
 
-（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
+## 2021年7月 ~ 2021年8月 
 
-## ABC公司 （ 2012年9月 ~ 2014年9月 ）
+### 中国网球公开赛志愿者 / 观众引导组组长
+对组内志愿者进行工作安排, 落实组委会的相关任务,
+负责对观众的疑问进行解答, 
+培养了吃苦耐劳的品质以及顽强的毅力
+## 2019年9月 ~ 2022年6月 
 
-### DEF项目 
+### 异质物联网融合评价体系及评价方法 
 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
-
-### GHI项目 
-
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
-
-### 其他项目
-
-（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+项目描述：针对异质物联网互联实际需求, 从“数据-资源-服务”的角度, 设计评价体系, 规范异质互联评价指标和评价方法, 指导和评价异质互联模型、方法、架构和技术的设计。
+本人工作：利用主成分分析等方法对构建异质物联网融合评价体系及评价方法。
 
 
-## JKL公司 （ 2010年3月 ~ 2012年8月 ）
-
-### MNO项目 
-
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
 
-### PQR项目 
 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
-
-
-### 其他项目
-
-（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
 
 
 # 个人信息
@@ -108,9 +88,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
  - 韩靖敏/男/1995 
  - 本科/内蒙古大学数学学院 
  - 硕士研究生/合肥工业大学数学学院
- - 工作年限：3年
- - 微博：[@Easy](http://weibo.com/easy) （如果没有技术相关内容，也可以不放）
- - 技术博客：https://blog.csdn.net/qq_38287376?spm=1008.2028.3001.5343 
+
+
  - Github：http://github.com/easychen ( 有原创repo的Github帐号会极大的提升你的个人品牌  )
 
  - 期望职位：算法工程师，开发岗
