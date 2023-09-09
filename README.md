@@ -2,8 +2,7 @@
 
 My QQ is 897224809. 
 
-妳的回话凌乱著 在这个时刻
-我想起喷泉旁的白鸽 甜蜜散落了
+<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 And my e-mail: hanjingmin0805@gmail.com
 
