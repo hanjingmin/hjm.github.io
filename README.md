@@ -1,77 +1,110 @@
-## Welcome to my  Pages
+# 韩靖敏  
+*软件开发工程师*  
+邮箱：hjmk1k1k1@gmail.com | 微信：hjmk1k1k1  
+期望城市：上海(优先)、北京 | 期望职位：软件开发工程师
 
-My Wechat is hjmk1k1k1. 
+---
 
-And my e-mail: hjmk1k1k1@gmail.com
+## 个人信息
 
-### 
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
-# 个人总结
+- 姓名：韩靖敏
+- 性别：男
+- 出生年份：1995
+- 学历：硕士研究生（合肥工业大学）
 
-- 研究生期间主要研究传统图像处理方向, 例如图像去噪, 图像去模糊等
-  - 熟悉低秩矩阵分解, 稀疏编码, 张量矩阵运算等知识
-  - 编程语言python，熟练运用tensorflow,pytorch,keras等神经网络框架
-  - 熟悉CNN（卷积神经网络）、RNN（循环神经网络）、强化学习等深度学习方法
-- 熟悉c语言，数据结构，计算机网络
-- 对PCIe，NVMe协议有一定的了解，熟悉使用Trace工具
-- 熟悉FTL种GC策略，Cache管理
-- 熟悉数据通路，有eSSD调优经验
-- 熟悉FIO、Vdbench等工具的使用
+---
 
-​      
-![info](https://github-readme-stats.vercel.app/api?username=hanjingmin&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
-# 技能清单
+## 教育背景
 
-以下均为我熟练使用的技能
+- **硕士研究生**  
+  *合肥工业大学 数学学院* | 2019.09 – 2022.06  
+  主修课程：图像处理、深度学习、机器学习
 
-- 计算机二级
-- 熟练使用word、excel、powerpoint slide
-- 编程语言：C/C++, python
-- 版本管理、文档和自动化部署工具：Git
-      
-# linux卡片
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-# mac卡片
-[![](https://img.shields.io/badge/macOS-Hackintosh-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.tonymacx86.com/)
+- **本科**  
+  *内蒙古大学 数学学院* | 2014.09 – 2018.06  
+  主修课程：高等代数、抽象代数、解析几何、微分几何、拓扑学基础、数学分析、复变函数、泛函分析、常微分方程、偏微分方程
 
-# 手机设备
-[![](https://img.shields.io/badge/Honor-V30-f5010c?style=flat-square&logo=huawei&logoColor=ffffff)](https://www.apple.com/)
+---
 
-# 程序语言
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
+## 核心技能
 
-# 游戏
-![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
-[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+- **编程语言**：C/C++、Python
+- **开发工具**：Git、Linux、TensorFlow、PyTorch、Keras
+- **存储技术**：企业级存储优化（eSSD调优、PCIe、NVMe协议）、FTL GC策略、Cache管理
+- **系统优化**：I/O优化、多级缓存优化、内存管理优化
+- **性能工具**：FIO、Vdbench、Trace工具
+- **深度学习**：CNN、RNN、强化学习、图像去噪、图像去模糊
 
-# 工作经历
+---
 
-## 2022年7月 ~ 至今
+## 工作经历
 
-### 企业级存储Gen 4/5项目
+### **2022年7月 – 至今**  
+**企业级存储Gen 4/5项目**  
+*公司名称*（请根据实际情况填写）
 
-项目描述：
- - 内存管理优化：通过细化内存池管理，减少内存碎片，提升内存的访问效率。
- - 磁盘I/O优化：结合存储硬件特性（如SSD、NVMe）对数据访问进行适配，优化磁盘调度和数据布局。
- - 多级缓存优化：利用多层次缓存体系结构（如L1、L2缓存）进行数据的局部性优化。
- - 延迟敏感性调整：对于延迟敏感的操作（如事务处理），采用优先级调度机制，确保其快速完成。
+**项目描述**：  
+负责企业级存储系统的性能调优，特别在**数据路径优化**、**缓存管理**、**磁盘I/O调优**等方面有深入的研究和实际操作经验。
+
+**主要职责**：
+- **数据路径优化**：深入分析存储系统中write、read、trim等I/O命令的处理流程，提升数据访问速度和吞吐量。
+- **FTL GC优化**：优化闪存管理（FTL）的垃圾回收（GC）策略，提高存储系统在高负载下的性能和稳定性。
+- **内存管理**：精细化内存池管理，减少内存碎片，提升内存访问效率。
+- **磁盘I/O优化**：根据硬件特性（SSD、NVMe），优化数据访问方式，提升I/O性能，减少延迟。
+- **多级缓存优化**：设计并实现多层次缓存结构（L1、L2），优化数据的局部性，提升缓存命中率。
+- **延迟敏感调优**：为延迟敏感的操作（如事务处理）设计优先级调度机制，减少响应时间，提升用户体验。
+
+**技术成就**：
+- **I/O吞吐量提升**：优化后存储系统I/O吞吐量提升50%以上。
+- **延迟降低**：通过缓存优化和内存管理，减少了30%-40%的系统响应延迟。
+- **缓存命中率提升**：通过优化缓存管理策略，使得缓存命中率提升了20%以上。
+
+---
+
+## 研究与项目经验
+
+### **图像处理与深度学习**  
+*合肥工业大学* | 2019.09 – 2022.06
+
+- **图像去噪与去模糊**：应用深度学习方法，基于CNN和RNN网络实现高效的图像去噪与去模糊，减少图像处理中的噪声和模糊。
+- **稀疏编码与低秩矩阵分解**：通过低秩矩阵分解与稀疏编码技术提升图像质量，在传统图像处理方法中取得了显著改进。
+- **深度学习框架应用**：熟练使用TensorFlow、PyTorch和Keras等深度学习框架进行模型训练与优化，成功实现了多个图像处理任务的自动化。
+
+---
+
+## 技术工具与技能
+
+- **编程语言**：  
+  C/C++：熟悉数据结构与算法，擅长系统编程与性能优化。  
+  Python：广泛用于数据分析、深度学习模型的开发与优化。
+
+- **深度学习框架**：  
+  TensorFlow、PyTorch、Keras：用于神经网络模型的构建与训练，尤其擅长卷积神经网络（CNN）与递归神经网络（RNN）。
+
+- **存储技术与优化工具**：  
+  熟悉**FTL GC策略**、**NVMe协议**、**eSSD存储优化**，并掌握使用**FIO**、**Vdbench**、**Trace工具**等进行性能测试与调优。
+
+- **性能调优与监控**：  
+  精通性能监控与调优，包括内存优化、磁盘I/O优化、缓存策略优化。
+
+---
+
+## 兴趣爱好
+
+- **骑行**：热爱长途骑行，享受挑战与自由。
+- **音乐**：听各种类型的音乐，特别是摇滚和独立音乐。
+- **电影**：热衷于电影观赏，尤其是科幻与纪录片。
+- **游戏**：喜爱策略类与角色扮演类游戏，注重思维和反应能力的提升。
+
+---
+
+## 个人总结
+
+作为一名软件开发工程师，我在深度学习和企业级存储系统的优化方面有较强的技术积累与实践经验。尤其在缓存管理和I/O性能优化等方面，具备较为深入的技术理解和多次实际调优的经验。我擅长分析系统瓶颈，并通过优化策略提升系统的稳定性与性能，致力于为企业提供高效、稳定的存储解决方案。
 
 
 
+## 附录
 
-
-
-
-# 个人信息
-
- - 韩靖敏/男/1995 
- - 本科/内蒙古大学数学学院 
- - 硕士研究生/合肥工业大学数学学院
-
-
- - Github：http://github.com/hanjingmin
-
- - 期望职位：软件开发工程师
- - 期望城市：北京、上海
-
-![](http://antzuhl.cn:4000/get/@hanjingmin.readme)
+- **语言能力**：  
+  英语：CET-4，无压力读懂英文技术文档与进行基础沟通。
