@@ -1,18 +1,22 @@
 ## Welcome to my  Pages
 
-My QQ is 897224809. 
+My Wechat is hjmk1k1k1. 
 
-And my e-mail: hanjingmin0805@gmail.com
+And my e-mail: hjmk1k1k1@gmail.com
 
 ### 
 <div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
 # 个人总结
 
-- 主要研究传统图像处理方向, 例如图像去噪, 图像去模糊等
-- 熟悉低秩矩阵分解, 稀疏编码, 张量矩阵运算等知识
-- 编程语言python，熟练运用tensorflow,pytorch,keras等神经网络框架
+- 研究生期间主要研究传统图像处理方向, 例如图像去噪, 图像去模糊等
+  - 熟悉低秩矩阵分解, 稀疏编码, 张量矩阵运算等知识
+  - 编程语言python，熟练运用tensorflow,pytorch,keras等神经网络框架
+  - 熟悉CNN（卷积神经网络）、RNN（循环神经网络）、强化学习等深度学习方法
 - 熟悉c语言，数据结构，计算机网络
-- 熟悉CNN（卷积神经网络）、RNN（循环神经网络）、强化学习等深度学习方法
+- 对PCIe，NVMe协议有一定的了解，熟悉使用Trace工具
+- 熟悉FTL种GC策略，Cache管理
+- 熟悉数据通路，有eSSD调优经验
+- 熟悉FIO、Vdbench等工具的使用
 
 ​      
 ![info](https://github-readme-stats.vercel.app/api?username=hanjingmin&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
@@ -42,18 +46,15 @@ And my e-mail: hanjingmin0805@gmail.com
 
 # 工作经历
 
-## 2021年7月 ~ 2021年8月 
+## 2022年7月 ~ 至今
 
-### ACM图灵大会 / 应急机动组组长
-对组内志愿者进行工作安排, 落实组委会的相关任务,
-负责对观众的疑问进行解答。
+### 企业级存储Gen 4/5项目
 
-## 2019年9月 ~ 2022年6月 
-
-### 异质物联网融合评价体系及评价方法 
-
-项目描述：针对异质物联网互联实际需求, 从“数据-资源-服务”的角度, 设计评价体系, 规范异质互联评价指标和评价方法, 指导和评价异质互联模型、方法、架构和技术的设计。
-本人工作：利用主成分分析等方法对构建异质物联网融合评价体系及评价方法。
+项目描述：
+ - 内存管理优化：通过细化内存池管理，减少内存碎片，提升内存的访问效率。
+ - 磁盘I/O优化：结合存储硬件特性（如SSD、NVMe）对数据访问进行适配，优化磁盘调度和数据布局。
+ - 多级缓存优化：利用多层次缓存体系结构（如L1、L2缓存）进行数据的局部性优化。
+ - 延迟敏感性调整：对于延迟敏感的操作（如事务处理），采用优先级调度机制，确保其快速完成。
 
 
 
@@ -71,7 +72,6 @@ And my e-mail: hanjingmin0805@gmail.com
  - Github：http://github.com/hanjingmin
 
  - 期望职位：软件开发工程师
- - 期望薪资：税前月薪25k，
  - 期望城市：北京、上海
 
 ![](http://antzuhl.cn:4000/get/@hanjingmin.readme)
